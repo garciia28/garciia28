@@ -1,7 +1,7 @@
 ### Hola a todos. Bienvenidos a mi repositorio de GitHub, aquí podrás encontrar una información variada sobre a lo que me dedico. 😊
 
 
-A continuación, encontrnarás un resumen sobre mi vida, mis estudios y mi trabajo actual:
+A continuación, podrás encontrar un resumen sobre mi vida, mis estudios y mi trabajo actual:
 
 - 🔭 Actualmente estoy haciendo mis prácticas desde Abril de 2024 hasta Junio de este mismo año en la empresa Onets.
 - 🌱 Actualmente he aprendido lenguajes como: JavaScript, Java, Python, C#, Kotlin... Como lenguaje de marcado y diseño he aprendido a utilizar HTML 5 y CSS 3.
